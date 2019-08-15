@@ -2,7 +2,14 @@
 
 ## Section
 
-### 1. Basic
+### 1. Basic (Updating)
+
+* Regression analysis
+* Classfication analysis
+* Activation Function
+* MSE
+* Cross Entropy
+* Back Propagation
 
 ### 2. Convolutional Neural Netowrk
 
@@ -19,6 +26,10 @@
 * UCI Machine Learning Repository - Concrete Compressive Strength Data
 
 ### 4. Recurrent Neural Network
+* poloniex.com - Bitcoin Graph
+* UCI Machine Learning Repository - Ozone Level Detection Data
+
+***
 
 ## Versions
 ```
